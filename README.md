@@ -24,6 +24,10 @@ List of packages, services, and manuals related to web scraping.
 * https://www.blackhatworld.com/forums/proxies-for-sale.112/
 * https://forum.antichat.com/forums/147/
 
+## Browser Rental Services
+
+* [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for web scraping. MCP-native, SDKs for Python/JS, real residential IPs, zero bot detection, crypto payouts.
+
 ## Telegram Discussion Groups
 * [@grablab](https://t.me/grablab) - talks in English
 * [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
